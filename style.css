@@ -37,3 +37,13 @@ em {
   overflow: hidden;
   margin: 80px auto 0 auto;
 }
+
+.slide {
+  width: auto;
+  height: 668px;
+  padding: 30px;
+  font-weight: 200;
+  font-size: 200%;
+  line-height: 1.375;
+}
+
