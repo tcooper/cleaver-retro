@@ -30,3 +30,10 @@ code {
 em {
   border-bottom: 1px solid #666;
 }
+
+#wrapper {
+  width: 1024px;
+  height: 768px;
+  overflow: hidden;
+  margin: 80px auto 0 auto;
+}
